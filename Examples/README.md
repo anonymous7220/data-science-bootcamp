@@ -1,10 +1,10 @@
-# 🧪 Practical Examples & Projects
+# Practical Examples & Projects
 
 This directory contains **practical exercises and mini-projects** where theoretical concepts are applied to real-world scenarios.
 
 It covers the full data pipeline including **data cleaning, visualization, and modeling**.
 
-## ⚠️ Important Note: Datasets
+## Important Note: Datasets
 
 To optimize the repository size, large datasets (e.g., `.csv`, `.xlsx` files) are generally **NOT included** in this repository.
 
@@ -18,7 +18,7 @@ Since some of these projects are from earlier learning stages, **certain specifi
 2.  Place the file in the same directory.
 3.  Update the `pandas.read_csv("filename.csv")` path if necessary.
 
-## 🛠️ Tech Stack    
+## Tech Stack    
 * **Python**
 * **Pandas & NumPy** (Data Manipulation)
 * **Matplotlib & Seaborn** (Data Visualization)
